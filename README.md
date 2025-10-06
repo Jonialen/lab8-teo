@@ -67,3 +67,8 @@ La gráfica también se mostrará en una ventana emergente.
 
 - **Datos Crudos**: Los tiempos de ejecución se encuentran en `resultados_lab8.csv`.
 - **Visualización**: La gráfica comparativa se guarda como `profiling_plot.png`.
+
+## Autores
+
+- Jonathan Díaz
+- Luis Padilla
