@@ -40,7 +40,7 @@ def build_and_run_cpp():
 
 
 # Lee el archivo CSV generado y grafica los resultados
-def plot_results(csv_path="profiling_results.csv"):
+def plot_results(csv_path="resultados_lab8.csv"):
     if not Path(csv_path).exists():
         print(f"Error: No se encontro el archivo {csv_path}")
         sys.exit(1)
